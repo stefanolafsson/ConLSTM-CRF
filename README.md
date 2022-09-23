@@ -5,11 +5,11 @@ Olafsson, S., Wallace, B. C., & Bickmore, T. W. (2020, May). Towards a Computati
 
 Expected format for the data:
 
-| Section	| Tag |	Speaker	| Text                     |
-|----------------------------------------------------|
-| 1	      | x   |	A       |	The quick brown fox      |
-| 1	      | y	  | A	      | The quick brown fox      |
-| 1	      | z	  | B       |	Jumps over the lazy frog |
+| Section	| Tag |	Speaker	| Text |
+|---|---|---|--|
+| 1	| x |	A |	The quick brown fox |
+| 1	| y	| A	| The quick brown fox      |
+| 1	| z	| B |	Jumps over the lazy frog |
 | 1	| x	| A	| The quick brown fox |
 | 1	| y	| B	| Jumps over the lazy frog |
 | 2	| z	| B	| Jumps over the lazy frog |
