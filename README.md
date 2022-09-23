@@ -4,7 +4,7 @@ An implementation based on the ConLSTM-CRF model described in:
 
 [Olafsson, S., Wallace, B. C., & Bickmore, T. W. (2020, May). Towards a Computational Framework for Automating Substance Use Counseling with Virtual Agents. In AAMAS (pp. 966-974).](https://dl.acm.org/doi/abs/10.5555/3398761.3398874)
 
-Expected format for the data:
+Expected format of the data (CSV files):
 
 | Section	| Tag |	Speaker	| Text |
 |---|---|---|--|
